@@ -39,17 +39,17 @@ This is in progress. Check back in for progress to be made.
 | 2023-09-21  | Th | [Empirical Organization slides](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/02-empirical-workflow/02-empirical-workflow.html) | [Read Code and Data for Social Sciences](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) | |
 | 2023-09-26 | T | [R Basics](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/04-rlang/04-rlang.html) | [Watch basics of RStudio by Bates alumni Eli Mokas and Ian Ramsay](https://www.youtube.com/watch?v=Ih84O1vfH8Y&t=3391s) | |
 | 2023-09-28 | Th | [Data Table](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-datatable/05-datatable.html), [Tidyverse](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/05-tidyverse/05-tidyverse.html) | [Ch 1 DS4E](https://grantmcdermott.com/ds4e/tidyverse.html) | |
-| 2023-10-03 | T | [CSS](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/06-web-css/06-web-css.html), [Scraping Notes by Jesus Fernández Villaverde and Pablo Guerrón](https://www.sas.upenn.edu/~jesusfv/Lecture_HPC_10_Web_Scrapping.pdf) | [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb) (Chrome), [ScrapeMate](https://addons.mozilla.org/en-US/firefox/addon/scrapemate/) (Firefox) | |
+| 2023-10-03 | T | [CSS](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/06-web-css/06-web-css.html), [Scraping Notes by Jesus Fernández Villaverde and Pablo Guerrón](https://www.sas.upenn.edu/~jesusfv/Lecture_HPC_10_Web_Scrapping.pdf) | [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb) (Chrome), [ScrapeMate](https://addons.mozilla.org/en-US/firefox/addon/scrapemate/) (Firefox) | [Problem Set 1 due](https://classroom.github.com/a/sNsM0r0T), [solutions](https://github.com/ECON368-fall2023-big-data-and-economics/ps1-selective-colleges-solutions) |
 | 2023-10-05 | Th | [APIs](https://raw.githack.com/big-data-and-economics/big-data-class-materials/main/lectures/07-web-apis/07-web-apis.html) | [JSONView](https://jsonview.com/), [Sign-up](https://research.stlouisfed.org/useraccount/apikey) and register for [Personal API Key](https://research.stlouisfed.org/useraccount/apikey) | |
-| 2023-10-10 | T | Spatial Analysis with Opportunity Atlas | [Watch Geography of Upward Mobility in America starting at 39min](https://www.youtube.com/watch?v=P0NvsWDKwvs&t=2340s) | |
-| 2023-10-12 | Th | Functions & Parallel Programming | [Refer to Chapters 2-4 of DS4E](https://grantmcdermott.com/ds4e/funcs-intro.html) | |
-| 2023-10-17 | T | SQL | | |
 | **Causal Inference** | | |
-| 2023-10-24 | T | Regression Review & Causal Inference | Read [Effect Ch 13](https://theeffectbook.net/ch-StatisticalAdjustment.html) or [Mixtape Ch 2](https://mixtape.scunning.com/02-probability_and_regression), [Watch Causal Effects of Neighborhoods](https://youtu.be/_7epNon8wi8?si=VM_f24hrwhVzwE9K) | |
-| 2023-10-26 | Th | Panel data and two-way fixed effects | [Watch first 40min of Teachers and Charter Schools](https://youtu.be/iIIlb1hTbTc?si=rGHD2LCckhG7Rdwn) | |
-| 2023-10-31 | T | Regression Discontinuity Design | Read [Effect Ch 20](https://theeffectbook.net/ch-RegressionDiscontinuity.html) or [Mixtape Ch 6](https://mixtape.scunning.com/06-regression_discontinuity) | |
-| 2023-11-02 | Th | Applications: college wage premia, Neighborhoods and Mobility, MITA and mining | [Watch first 25min of The Causal Effect of Colleges](https://youtu.be/yo3axaZBm_g?si=3Jaw7B3Dzlvn3Cnj) | |
+| 2023-10-10 | T | [Opportunity Atlas](big-data-and-economics/big-data-class-materials/blob/main/lectures/09-oppatlas/09-oppatlas.html) and [Spatial Analysis](https://raw.githack.com/big-data-and-economics/big-data-class-materials/blob/main/lectures/08-spatial/08-spatial.html) | [Watch Geography of Upward Mobility in America starting at 39min](https://www.youtube.com/watch?v=P0NvsWDKwvs&t=2340s) | [Problem Set 2 due 10/23 at 11:59:59](https://github.com/ECON368-fall2023-big-data-and-economics/PS2-manager-survey), (solutions TK) |
+| 2023-10-12 | Th | Regression Review & Causal Inference | Read [Effect Ch 13](https://theeffectbook.net/ch-StatisticalAdjustment.html) or [Mixtape Ch 2](https://mixtape.scunning.com/02-probability_and_regression), [Watch Causal Effects of Neighborhoods](https://youtu.be/_7epNon8wi8?si=VM_f24hrwhVzwE9K) | |
+| 2023-10-17 | T | Panel data and two-way fixed effects | [Watch first 40min of Teachers and Charter Schools](https://youtu.be/iIIlb1hTbTc?si=rGHD2LCckhG7Rdwn) | |
+| 2023-10-24 | T | Regression Discontinuity Design | Read [Effect Ch 20](https://theeffectbook.net/ch-RegressionDiscontinuity.html) or [Mixtape Ch 6](https://mixtape.scunning.com/06-regression_discontinuity) | [Problem Set 3 due 10/23 at 11:59:59](https://github.com/ECON368-fall2023-big-data-and-economics/ps3-opportunity-atlas) | 
+| 2023-10-26 | Th | Applications: college wage premia, Neighborhoods and Mobility, MITA and mining | [Watch first 25min of The Causal Effect of Colleges](https://youtu.be/yo3axaZBm_g?si=3Jaw7B3Dzlvn3Cnj) | | 
 | **Machine Learning** | | |
+| 2023-10-31 | T | Functions & Parallel Programming | [Refer to Chapters 2-4 of DS4E](https://grantmcdermott.com/ds4e/funcs-intro.html) | |
+| 2023-11-02 | Th | SQL | | |
 | 2023-11-07 | T | Machine Learning: Decision trees | [Read ISLR 8.1](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf) | |
 | 2023-11-09 | Th | Machine Learning: Bias and Judicial Decisions | [Watch Improving Judicial Decisions](https://youtu.be/AuNzoCk_uxM?si=dFpn0aQel4amdH-_) | |
 | 2023-11-14 | T | Machine Learning: Regressional penalization | [Read ISLR Ch 6.1, 6.2](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf)  | |
@@ -121,7 +121,14 @@ Scheduled hours for R held in the Student Academic Support Center (SASC) of the 
 - Thursday | 12-4pm, 6-7:30pm
 - Friday | 11am-12pm
 
-I will also try to get a Course-Attached Tutor for this class.
+#### Course-Attached Tutor
+
+Chrissy Aman is our Course-Attached tutor. She will host office hours in the SASC and will be available for individual appointments. Her hours are:
+
+- Fridays at 6:45pm
+- Sundays at TBD
+
+Chrissy can help you troubleshoot *R*. She does not know have solution to the problem sets, but she can help you figure them out. 
 
 ## Details
 
@@ -146,7 +153,7 @@ There are several opportunities for bonus points during the semester:
 
 1. A 2.5% bonus on your final grade for issuing a *pull request* to any open source material -- including these lecture notes. This can be to fix a typo or to fix a bug in the code.
 2. A 2.5% participation bonus on your final grade that I will award at my discretion.
-3. I offer a bonus point for each typo corrected on problem sets *and* solutions. This is capped at 10 points per student per problem set. 
+3. I offer a bonus point for each typo corrected on problem sets *and* solutions. This is capped at 10 points per student per problem set. You must pull request and/or raise an Issue on the corresponding GitHub repository to get credit.
 
 I have given instructions on how to execute a pull request of a *specific* commit (instead of your entire commit history) in the [FAQ](#pull-request-of-a-specific-commit).
 
@@ -164,9 +171,9 @@ Throughout the course you will engage in problem sets that deal with actual data
 
 Your problem sets are graded on three dimensions: 
 
-1. Submission via GitHub (10%): Did you use GitHub to commit and push your code? Did you submit the assignment on time? Did you submit the assignment in the correct format?
+1. Submission via GitHub (10%): Did you use GitHub to stage, commit, and push your code? Did you submit the assignment on time? Did you submit the assignment in the correct format?
 2. Quality of code (30%): Is it well-commented? Is it easy to follow? Can I run it?
-3. Quality of oresentation of graphs and tables (30%): Are they well-labeled? Do they have titles? Do they have legends? Are they formatted well?
+3. Quality of presentation of graphs and tables (30%): Are they well-labeled? Do they have titles? Do they have legends? Are they formatted well?
 4. Quality of answers (30%): Are they clear? Do they answer the question?
 
 ### Solutions 
@@ -228,7 +235,7 @@ This is the easiest option, but it does mean you will have to clone multiple for
 
 **Option 2: Use the command line (Git Bash, WSL, Terminal)**
 
-1. Create a fork of this repository (called the upstream repository) if you not before
+1. Create a fork of this repository (called the upstream repository) if you have not before
 2. Clone the forked repo to your local computer
 3. Add the original repo as a remote called `upstream` (enter `git remote add upstream <upstream-repo-url>`)
 4. Fetch the upstream repo (`git fetch upstream`)
