@@ -11,7 +11,7 @@ The final project will be scored according to the following guidelines:
 | Sanely organized                                                                             | 5      |
 | *Subtotal*                                                                                   | *40*   |
 | **Written Report**                                                                           |        |
-| At least 10 pages (excluding References, Tables, and Figures)                                | 10     |
+| 5-10 pages (excluding References, Tables, and Figures)                                | 10     |
 | At least 1 **properly formatted** equation                                                   | 5      |
 | At least five references in the bibliography                                                 | 10     |
 | Properly include in-text citations (using `citet{bibkey}`)                                   | 5      |
@@ -21,12 +21,4 @@ The final project will be scored according to the following guidelines:
 | Consists of 6 sections: introduction, literature review, data, methods, findings, conclusion | 10     |
 | Source code of report included with other code                                               | 10     |
 | *Subtotal*                                                                                   | *80*   |
-| **In-class presentation**                                                                    |        |
-| 5 slides ([Beamer](https://www.overleaf.com/learn/latex/Beamer) or [RMarkdown](https://rmarkdown.rstudio.com/lesson-11.html)), consisting of the following:                             | 5      |
-| Introduction / explanation of topic                                                          | 5      |
-| Data (collection / description)                                                              | 5      |
-| Methods                                                                                      | 5      |
-| Findings                                                                                     | 5      |
-| What did we learn / why is this important?                                                   | 5      |
-| *Subtotal*                                                                                   | *30*   |
 | **Grand total**                                                                              | **150**|
